@@ -1,7 +1,7 @@
 # territyrie_place Online Marketplace - Full-Stack E-Commerce Project
 This is a full-stack e-commerce project that includes site reliability on AWS and MERN stack. The project aims to build an online marketplace where users can buy and sell products securely.
 
-Technologies Used
+##Technologies Used
 AWS (EC2, RDS, SNS, SQS, CloudFront, ELB, CloudWatch)
 MERN Stack (MongoDB, Express, React, and Node.js)
 HTML, CSS, JavaScript
